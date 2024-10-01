@@ -19,5 +19,5 @@ This is the repository for the *Large Language Models* course at Politecnico di 
 
 The labs have been curated by Claudio Savelli and Flavio Giobergia. 
 
-## Part II - Applications of LLMs to Software Engineering
+### Part II - Applications of LLMs to Software Engineering
 *Coming soon!*
