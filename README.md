@@ -8,6 +8,7 @@ This is the repository for the *Large Language Models* course at Politecnico di 
 - **A.Y.** 2024/25 (1st semester)
 - **CFU:** 6
 - **Lecturer:** Flavio Giobergia
+- **Co-lecturer:** Riccardo Coppola
 - **[LLM course website](https://dbdmg.polito.it/dbdmg_web/2024/large-language-models-2024-25/)**
 
 
@@ -18,5 +19,5 @@ This is the repository for the *Large Language Models* course at Politecnico di 
 
 The labs have been curated by Claudio Savelli and Flavio Giobergia. 
 
-## Part II - Applications of LLMs to Software Engineering
+### Part II - Applications of LLMs to Software Engineering
 *Coming soon!*
