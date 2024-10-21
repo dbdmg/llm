@@ -14,7 +14,8 @@ This is the repository for the *Large Language Models* course at Politecnico di 
 
 ### Part I - Foundations of Large Language Models
 
-- Lab 01: Introduction to deep learning with PyTorch (text)
+- Lab 01: Introduction to deep learning with PyTorch
+- Lab 02: Using transformers (T5) with the HuggingFace suite (tokenizers, models), attention on time series data
 
 
 The labs have been curated by Claudio Savelli and Flavio Giobergia. 
