@@ -5,5 +5,5 @@ The third lab is divided into two parts:
 - GPT-2: in this part, you will use GPT-2, a decoder-only model used for next token prediction. You will explore its architecture and masked self-attention (typical of decoders, to preserve causality). You will then use GPT-2 to generate new sequences of tokens, with various sampling policies. 
 
 The following are the files you will use for this lab:
-- T5 exercise ([text](./text-01-bert.ipynb)) ([solution](./solution-01-bert.ipynb))
-- Attention exercise ([text](./text-02-gpt2.ipynb)) ([solution](./solution-02-gpt2.ipynb))
+- BERT exercise ([text](./text-01-bert.ipynb)) ([solution](./solution-01-bert.ipynb))
+- GPT-2 exercise ([text](./text-02-gpt2.ipynb)) ([solution](./solution-02-gpt2.ipynb))

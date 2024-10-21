@@ -16,7 +16,7 @@ This is the repository for the *Large Language Models* course at Politecnico di 
 
 - Lab 01: Introduction to deep learning with PyTorch
 - Lab 02: Using transformers (T5) with the HuggingFace suite (tokenizers, models), attention on time series data
-- lab 03: Analyzing Encoder only models (BERT) and Decoder only models (GPT)
+- Lab 03: Analyzing Encoder only models (BERT) and Decoder only models (GPT)
 
 The labs have been curated by Claudio Savelli and Flavio Giobergia. 
 
