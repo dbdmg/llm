@@ -18,6 +18,7 @@ This is the repository for the *Large Language Models* course at Politecnico di 
 - Lab 02: Using transformers (T5) with the HuggingFace suite (tokenizers, models), attention on time series data
 - Lab 03: Analyzing Encoder only models (BERT) and Decoder only models (GPT)
 - Lab 04: Causal Language Modeling (CLM) and LLMs
+- Lab 05: Efficient fine-tuning and inference in LLMs
 
 The labs have been curated by Claudio Savelli and Flavio Giobergia. 
 
