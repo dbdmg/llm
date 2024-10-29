@@ -1,5 +1,6 @@
 results
 gpt2-medical-finetuned
-lab05
 hf_token.txt
 model_answers.json
+augmented_model.onnx
+static_quantized_model
