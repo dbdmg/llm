@@ -3,3 +3,4 @@ gpt2-medical-finetuned
 hf_token.txt
 model_answers.json
 augmented_model.onnx
+static_quantized_model
