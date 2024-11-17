@@ -20,7 +20,10 @@ This is the repository for the *Large Language Models* course at Politecnico di 
 - Lab 04: Causal Language Modeling (CLM) and LLMs
 - Lab 05: Efficient fine-tuning and inference in LLMs
 
-The labs have been curated by Claudio Savelli and Flavio Giobergia. 
+The labs of Part I have been curated by Claudio Savelli and Flavio Giobergia. 
 
 ### Part II - Applications of LLMs to Software Engineering
-*Coming soon!*
+
+- Lab 01: Prompt Engineering and RAG with Llama
+
+The labs of Part II have been curated by Riccardo Coppola and Tommaso Fulcini.
