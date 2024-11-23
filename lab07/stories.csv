@@ -1,0 +1,36 @@
+Issue-id,Type,BusinessValue,Summary,Description
+HT-1,User Story,200,Browse hikes,As a visitor I want to see the list (with filtering) of available hikes So that I can get information on them
+HT-2,User Story,198,Describe hikes,As a local guide I want to add a hike description So that users can look at it
+HT-3,User Story,196,Register,As a visitor I want to register to the platform So that I can use its advanced services
+HT-4,User Story,190,See hikes' details,As a hiker I want to see the full list of hikes So that I can get information (including tracks) on them
+HT-17,User Story,180,Start hike,As a hiker I want to start a registered hike So that I can record an ongoing hike
+HT-18,User Story,179,Terminate hike,As a hiker I want to terminate a hike So that the hike is added to my completed hikes
+HT-34,User Story,178,Completed hikes,As hiker I want to access the list of hikes I completed
+HT-5,User Story,164,Describe hut,As a local guide I want to insert a hut description
+HT-6,User Story,162,Describe parking,As a local guide I want to add a parking lot
+HT-7,User Story,160,Search hut,As a hiker I want to search for hut description
+HT-8,User Story,158,Link start/arrival,As a local guide I want to add parking lots and huts as start/arrivals points for hikes
+HT-9,User Story,156,Link hut,As a local guide I want to link a hut to a hike So that hikers can better plan their hike
+HT-33,User Story,154,Define reference points,As a local guide I want to define reference points for a hike I added So that hikers can be tracked
+HT-19,User Story,150,Record point,As a hiker I want to record reaching a reference point of an on-going hike So that I can track my progress on the hike
+HT-35,User Story,149,Performance stats,As a hiker I want to see my stats based on the completed hikes
+HT-31,User Story,145,Register local guide,As a local guide I want to register To be able to access reserved features
+HT-32,User Story,144,Validate local guide,As a platform manager I want to validate a local guide registration So that they can access specific features
+HT-27,User Story,141,New weather alert,As a platform manager I want to enter a weather alert for a given area So that hikers can be warned
+HT-29,User Story,140,Weather alert notification,As a hiker I want to receive a weather alert notification in my current hiking area So that I am warned
+HT-14,User Story,138,Update hike condition,As a hut worker I want to update the condition of a hike linked to the hut So that prospective hikers are informed
+HT-30,User Story,137,Modify hike description,As a local guide I want to modify and delete hikes I added
+HT-15,User Story,136,Hut info,As a hut worker I want to add information on the hut So that hikers can better plan their hike
+HT-12,User Story,132,Hut worker sign-up,As a hut worker I want to request a user login So that I can operate on the platform
+HT-13,User Story,131,Verify hut-worker,As a platform manager I want to verify hut worker users So that they can operate on the platform
+HT-10,User Story,130,Set profile,As a hiker I want to record my performance parameters So that I can get personalised recommendations
+HT-11,User Story,128,Filter hikes,As a hiker I want to filter the list of hikes based on my profile So that I can see them based on certain characteristics
+HT-16,User Story,110,Hut pictures,As a hut worker I want to add photos of the hut So that hikers can better plan their hike
+HT-20,User Story,104,Broadcasting URL,As a hiker I want to get the broadcasting URL for my hike So that I can share it with my friends to let them follow me
+HT-21,User Story,102,Monitor hike,As a friend (of a hiker) I want to monitor the progress of my hiker friend
+HT-22,User Story,100,Unfinished hike,As a hiker I want to be notified about an unfinished hike So that I can terminate it
+HT-23,User Story,99,Plan hike,As a hiker I want to register a planned hike So that it can be later traced
+HT-24,User Story,98,Add group,As a hiker I want to add an hiker to a group for a planned hike So that we can hike together
+HT-25,User Story,98,Confirm group,As a hiker I want to be able to confirm group participation To be part of a group hike
+HT-26,User Story,97,Confirm buddy end,As a hiker I want to notify that someone of my group has completed their hike So that the group hike track is updated
+HT-28,User Story,94,Notify buddy late,As a hiker I want to be notified if someone of my group has not completed the hike yet So that I can verify her presence
