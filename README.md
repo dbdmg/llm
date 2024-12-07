@@ -24,6 +24,8 @@ The labs of Part I have been curated by Claudio Savelli and Flavio Giobergia.
 
 ### Part II - Applications of LLMs to Software Engineering
 
-- Lab 01: Prompt Engineering and RAG with Llama
+- Lab 06: Prompt Engineering and RAG with Llama
+- Lab 07: User Stories and Chain Architectures
+- Lab 08: ROC evaluations and Router Agents
 
 The labs of Part II have been curated by Riccardo Coppola and Tommaso Fulcini.
