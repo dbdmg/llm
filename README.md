@@ -1,15 +1,15 @@
-## Large Language Models
+## Large Language Models for Software Engineering
 
-This is the repository for the *Large Language Models* course at Politecnico di Torino. 
+This is the repository for the *Large Language Models for Software Engineering* course at Politecnico di Torino. 
 
 
 ### Course information
 
-- **A.Y.** 2024/25 (1st semester)
+- **A.Y.** 2025/26 (1st semester)
 - **CFU:** 6
-- **Lecturer:** Flavio Giobergia
-- **Co-lecturer:** Riccardo Coppola
-- **[LLM course website](https://dbdmg.polito.it/dbdmg_web/2024/large-language-models-2024-25/)**
+- **Lecturer:** Riccardo Coppola
+- **Co-lecturer:** Flavio Giobergia
+- **[LLM course website](https://dbdmg.polito.it/dbdmg_web/2025/large-language-models-for-software-engineering-2025-26/)**
 
 
 ### Part I - Foundations of Large Language Models
