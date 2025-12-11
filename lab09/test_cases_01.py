@@ -60,12 +60,12 @@ def test_all_grades_except_highest_and_lowest():
 # Invalid test cases for non-numeric inputs
 def test_non_numeric_input_string():
     grades = ["a", 25, 30, 33, 22, 28]
-    with pytest.raises(ValueError):
+    with pytest.raises(TypeError):
         compute_average(grades)
 
 def test_non_numeric_input_none():
     grades = [None, 25, 30, 33, 22, 28]
-    with pytest.raises(ValueError):
+    with pytest.raises(TypeError):
         compute_average(grades)
 
 def test_non_numeric_input_boolean():
@@ -75,5 +75,5 @@ def test_non_numeric_input_boolean():
 
 def test_non_numeric_input_mixed():
     grades = [18, "25", 30, 33, 22, 28]
-    with pytest.raises(ValueError):
+    with pytest.raises(TypeError):
         compute_average(grades)
