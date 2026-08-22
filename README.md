@@ -5,7 +5,7 @@ This is the repository for the *Large Language Models for Software Engineering* 
 
 ### Course information
 
-- **A.Y.** 2025/26 (1st semester)
+- **A.Y.** 2026/27 (1st semester)
 - **CFU:** 6
 - **Lecturer:** Riccardo Coppola
 - **Co-lecturer:** Flavio Giobergia
