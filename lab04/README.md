@@ -6,5 +6,5 @@ The fourth lab is divided into two parts:
 - LLMs: this part focuses on using various LLMs (Llama 3.2, and Mistral v0.2). You will see how we can use instruction-tuned versions of those models to get coherent answers to various questions. 
 
 The following are the files you will use for this lab:
-- CLM exercise ([text](./text-01-clm.ipynb)) ([solution](./solution-01-clm.ipynb))
-- LLMs exercise ([text](./text-02-llms.ipynb)) ([solution](./solution-02-llms.ipynb))
+- CLM exercise ([text](text-01-clm.ipynb)) ([solution](solution-01-clm.ipynb))
+- LLMs exercise ([text](text-02-llms.ipynb)) ([solution](solution-02-llms.ipynb))

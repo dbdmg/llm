@@ -1,5 +1,5 @@
 import pytest
-from function_01 import racer_disqualified
+from lab10.function_01 import racer_disqualified
 
 def test_racer_disqualified_valid():
     assert not racer_disqualified([120, 110, 90], [100, 100, 100], 2, [20, 10])

@@ -1,7 +1,7 @@
 import pytest
 
 # Import the function to be tested
-from function_01 import racer_disqualified as your_function_name
+from lab10.function_01 import racer_disqualified as your_function_name
 
 def test_valid_inputs():
     # Valid input test case 1: No penalties, times within limits

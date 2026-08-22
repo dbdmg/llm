@@ -1,5 +1,5 @@
 import pytest
-from function_01 import racer_disqualified
+from lab10.function_01 import racer_disqualified
 
 # Valid input cases
 def test_valid_input_not_disqualified():

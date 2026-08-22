@@ -1,6 +1,6 @@
 import pytest
 
-from function_01 import racer_disqualified
+from lab10.function_01 import racer_disqualified
 
 # Test function to check if a racer is disqualified
 def test_disqualified_based_on_penalties():
