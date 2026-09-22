@@ -7,9 +7,9 @@ This is the repository for the *Large Language Models for Software Engineering* 
 
 - **A.Y.** 2026/27 (1st semester)
 - **CFU:** 6
-- **Lecturer:** Riccardo Coppola
-- **Co-lecturer:** Flavio Giobergia
-- **[LLM course website](https://dbdmg.polito.it/dbdmg_web/2025/large-language-models-for-software-engineering-2025-26/)**
+- **Lecturer:** Flavio Giobergia
+- **Co-lecturer:** Riccardo Coppola
+- **[LLM4SE course website](https://dbdmg.polito.it/dbdmg_web/2026/large-language-models-for-software-engineering-2026-27/)**
 
 
 ### Part I - Foundations of Large Language Models
