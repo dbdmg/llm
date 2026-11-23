@@ -1,0 +1,168 @@
+
+
+Original text: i want to see the list (with filtering) of available hikes
+Perturbed text: I would like to view a comprehensive listing of available hiking trails along with the ability to filter them according to specific criteria.
+
+
+
+Original text: i want to add a hike description
+Perturbed text: I'd like to incorporate additional details about a hike.
+
+
+
+Original text: i want to register to the platform
+Perturbed text: I'd like to sign up for the platform now.
+
+
+
+Original text: i want to see the full list of hikes
+Perturbed text: I would like to view the comprehensive list detailing all available hiking trails.
+
+
+
+Original text: i want to start a registered hike
+Perturbed text: I would like to initiate a guided hike and register for it.
+
+
+
+Original text: i want to terminate a hike
+Perturbed text: I would like to cancel my hike.
+
+
+
+Original text: i want to insert a hut description
+Perturbed text: I'd like to add a detailed description of the hut.
+
+
+
+Original text: i want to add a parking lot
+Perturbed text: I would like to incorporate a parking facility into the existing infrastructure.
+
+
+
+Original text: i want to search for hut description
+Perturbed text: I'd like to find information about the huts.
+
+
+
+Original text: i want to add parking lots and huts as start/arrivals points for hikes
+Perturbed text: I would like to incorporate the ability to designate parking lot and hut locations as both starting and arrival points for individual hikes.
+
+
+Original text: i want to link a hut to a hike
+Perturbed text: I'd like to establish a connection between a hut and a hiking trail.
+
+
+
+Original text: i want to define reference points for a hike i added
+Perturbed text: I'd like to mark key milestones during my hike.
+
+
+
+Original text: i want to record reaching a reference point of an on-going hike
+Perturbed text: I'd like to mark the completion of a milestone during my ongoing hike.
+
+
+Original text: i want to see my stats based on the completed hikes
+Perturbed text: I would like to view my hiking statistics, which are updated in real-time after each completed hike.
+
+
+
+Original text: i want to register to be able to access reserved features
+Perturbed text: I would like to create an account in order to access premium functionality.
+
+
+
+Original text: i want to validate a local guide registration
+Perturbed text: I would like to verify the registration of a local contributor.
+
+
+
+Original text: i want to enter a weather alert for a given area
+Perturbed text: I would like to issue a weather warning for a specific region.
+
+
+
+Original text: i want to receive a weather alert notification in my current hiking area
+Perturbed text: I would like to receive real-time weather updates and alerts specifically relevant to my current location while hiking.
+
+
+
+Original text: i want to update the condition of a hike linked to the hut
+Perturbed text: I would like to submit an update regarding the current condition of the hike associated with the hut I manage.
+
+
+
+Original text: i want to modify and delete hikes i added
+Perturbed text: I'd like to edit and remove the hikes I've previously added.
+
+
+
+Original text: i want to add information on the hut
+Perturbed text: I'd like to incorporate additional details about the hut into the existing platform.
+
+
+
+Original text: i want to request a user login
+Perturbed text: I would like to register for an account on your platform.
+
+
+
+Original text: i want to verify hut worker users
+Perturbed text: I'd like to validate the identities of hut worker subscribers.
+
+
+
+Original text: i want to record my performance parameters
+Perturbed text: I would like to track my fitness metrics.
+
+
+
+Original text: i want to filter the list of hikes based on my profile
+Perturbed text: I would like to narrow down the selection of hikes according to my personal preferences.
+
+
+
+Original text: i want to add photos of the hut
+Perturbed text: I would like to upload images of the huts.
+
+
+
+Original text: i want to get the broadcasting url for my hike
+Perturbed text: I'd like to obtain the live location sharing URL for my current hike.
+
+
+
+Original text: i want to monitor the progress of my hiker friend
+Perturbed text: I'd like to keep tabs on my hiking companion's journey.
+
+
+
+Original text: i want to be notified about an unfinished hike
+Perturbed text: I would like to receive notifications when my hike is incomplete.
+
+
+
+Original text: i want to register a planned hike
+Perturbed text: I'd like to schedule a hike and create a registration for it.
+
+
+
+Original text: i want to add an hiker to a group for a planned hike
+Perturbed text: I would like to add a hiker who is participating in our planned hike to the group.
+
+
+
+Original text: i want to be able to confirm group participation to be part of a group hike
+Perturbed text: I would like to confirm my participation in a group walk.
+
+
+
+Original text: i want to notify that someone of my group has completed their hike
+Perturbed text: I'd like to bring to your attention that one of our group members has successfully completed their hiking excursion.
+
+
+
+Original text: i want to be notified if someone of my group has not completed the hike yet
+Perturbed text: I would like to receive notifications when any member of my designated group has failed to complete their hike.
+
